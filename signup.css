@@ -1,0 +1,63 @@
+body{
+	background-image: url("images/Login.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+	height: 100%;
+	overflow: hidden;
+}
+#roundedSquare{
+	border-radius: 30px;
+	background: #fefefe;
+	
+	width: 500px;
+	height: 550px; 
+	float: right;
+	margin: 150px;
+
+
+}
+#signUp{
+	font-size: 350%;
+	font-family: Gadugi;
+	text-align: right;
+	padding-left: 30px;
+	padding-top: 50%;
+
+	
+}
+.defaultSize{
+	text-align: left;
+	color:black;
+	font-size: 14px;
+	font-family: Gadugi;
+	width: 50%;
+	margin-left: 120px;
+	background-color: #D0CECE;
+	border-radius:3px;
+	border: none;
+	padding: 8px 20px;
+
+}
+.btnSignUp{
+	
+	background-color: #5F9840; /* Green */
+ 	border: none;
+ 	border-radius: 10px;
+  	color: white;
+ 	padding: 8px 20px;
+  	float: right;
+  	font-size: 16px;
+  	font-family: Gadugi;
+  	font-weight: bold;
+  	margin-right: 128px;
+  	cursor:pointer;
+}	
+#accLog{
+	float: center;
+	padding-top: 20px;
+	padding-left: 25%;
+	font-family: Gadugi;
+	text-decoration: none;
+}
